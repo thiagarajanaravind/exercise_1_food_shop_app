@@ -26,9 +26,3 @@ Exercise 1 - Kotlin Jetpack Compose Food Shop App
 ● Cart screen showing selected items.
 ● Total price calculation.
 ● Purchase button.
-
-4. Code/project structure screenshot
-  1. Scrollable Food List
-  2. Add to Cart Button
-  3. Cart Item Storage Logic
-  4. Total Price Calculation
